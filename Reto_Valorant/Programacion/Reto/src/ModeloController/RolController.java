@@ -1,6 +1,5 @@
 package ModeloController;
 
-import Modelo.Equipo;
 import Modelo.Rol;
 import ModeloDAO.RolDAO;
 
